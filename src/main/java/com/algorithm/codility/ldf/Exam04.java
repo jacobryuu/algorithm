@@ -48,6 +48,8 @@ public class Exam04 {
                 case EVICT:
                     operateMap.remove(max);
                     break;
+                default:
+                    break;
 
             }
         }
